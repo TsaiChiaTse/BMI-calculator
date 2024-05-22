@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    background-color: lightgray; 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#title {
+    text-align: center;
+    font-size: 500%;
+    width: max-content;
+}
+
+h2{
+    text-align: center;
+}
+
+.innerdiv{
+    display: flex;
+    justify-content: center;
+}
+
+#wdiv{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+p{
+    text-align: center;
+}
+
+#op1{
+    font-size: 200%;
+}
+
+#btn2{
+    margin-top: 20px;
+}
